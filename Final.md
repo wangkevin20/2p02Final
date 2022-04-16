@@ -33,16 +33,29 @@ An small survey for the participants of the experiment on their opion on twitter
 
 !["An early question survey for the participants made form Allourideas"](Screenshot%20(545).png)
 
-## processing data and tools
 
-# results
-1
 
-# analysis
-1
+# results and analysis
+When putting up the results of what we could find, we can conclude that the topic of just cancel culture itself is too broad, and diving too deep into individual issues can become too complex where it cannot be put into simpler terms. In cases where trolling, bullying and repeated harassment have become the norm, cancel culture seems to have become pointless in comparison to the original objective. Often through past tweets or actions that don’t define the people who made them anymore, cancel culture is the step by step definition of refusing to believe that people and society can change, and punishing them for mistakes that were made long ago. Despite most of the tweets being sarcastic or not really needing people to cancel/overact, there was a specific tweet of an artist redrawing a female black character as a monkey that gained a lot of attraction. The users themselves posted this as an extremely satirical joke about artists doing fan drawing of black characters that got canceled due to said character not being “black” enough. The tweet went viral and it was no surprise that there was a time gap between the user's feed and posts as it has most likely been deleted now. It was a joke that seemed a bit too harmful due to many people stating that the artwork was discriminatory towards blacks due to the stereotypes of them being savages/apes but some defended the piece as a satirical piece to bait people into spreading the word of his work. 
 
-# discussion
-1
+This was an interesting post due to how a majority of participants agreed about how the nature of that art piece was the middle ground in the discussion. It was prevalent that the user was not a racist and was doing this piece as satirical but shows itself in a bad light as it presented itself in a space where the people were already debating about colour, adding needless oil to the fire. If things went too out of hand then the user would have to face situations that would escalate into real-world issues such as people finding their IPs or sending death threats. This discussion between the participants shows how complex cancel culture can be. That the line which separates them shifts and changes for each individual. The discussion from before mentions both the group that felt the need to attack and those who defended the users are both somewhat valid. There is more than one factor when it comes to the final outcome of being canceled, it can be light or life-ending depending on the situation and its severity in the public eye. The artist who posted the monkey piece from a technical standpoint did nothing wrong and was just posting a satirical piece but due to the group he angered, through sheer numbers, he was forced to take it down after being suspended for three days. 
+
+<p><a href="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=18ziT0okG6UtKX7MKop68FbDeXbkpi1QTX5BCeYOsc-I&amp;font=Default&amp;lang=en&amp;initial_zoom=2&amp;height=650">Time anyalsis of data collected</a></p>
+
+
+
+# discussion/conclusion
+In a sense, Cancel Culture is a complex topic whose standpoint changes depending on individuals or groups. Those who target users with the intention of cancel culture could also be not meant to be taken seriously or overly dramatic but occasionally can have a good reason if needed. With how cancel culture is rooted in our society, the meaning of its action and understanding is still too complex to be understood. There are many takes of canceling that understanding means to take and understand the views of everything surrounding it. The Twitter platform wasn’t always like it is but this could be said from the current years as well as in the past, many things that we can’t say now were acceptable back then. 
+ 
+Most can agree that during the upcoming years people are going to become more soft or uptight about what we can say or type, without making the subject matter too seriously. The appropriation for writing one’s opinion online has become too guarded or strict to the extent where ‘free speech’ only exists at a superficial level where, users don’t really post about what they want but instead, go with the majority perspective and do not really voice their own opinion due to fear of backlash. The issue does not stem from the technological age as this was also 
+
 
 # Work cited 
-1
+Ng E. No Grand Pronouncements Here...: Reflections on Cancel Culture and Digital Media Participation. Television & New Media. 2020;21(6):621-627.   
+ 
+Bouvier, Gwen, and David Machin. “What Gets Lost in Twitter ‘Cancel Culture’ Hashtags? Calling out Racists Reveals Some Limitations of Social Justice Campaigns.” Discourse & Society, vol. 32, no. 3, May 2021, pp. 307–327,
+ 
+“Elon Musk Offers to Buy Twitter for $43 Billion.” Yahoo!, Yahoo!, https://ca.movies.yahoo.com/elon-musk-offers-to-buy-twitter-for-43-billion-104642696.html?guccounter=2. 
+Zetlin, M. (2021, February 14).
+
+ Internet Trolls Cost This Founder Her Business and Her Home. Here’s How to Protect Yourself. Inc.Com. https://www.inc.com/minda-zetlin/internet-trolls-attacks-protect-yourself-sara-christensen-doxing.html
