@@ -3,7 +3,7 @@ title: Twitter
 subtitle: Again, come on. How many times are we gonna do this.
 author: Kevin Wang
 summary: >
-    this a demostration
+    This is the final project of IASC 2P02
 category: Digital humanity
 fontfamily: sans-serif
 professor: Dr Aaron Mauro
@@ -20,6 +20,15 @@ To us now, toxicity or bullying is a norm, especially on social platforms. Almos
 
 # methodology
 1
+
+## Question data and tool used
+An small survey for the participants of the experiment on their opion on twitter.[^fn1]
+
+!["An early question survey for the participants made form Allourideas"](Screenshot%20(544).png)
+
+!["An early question survey for the participants made form Allourideas"](Screenshot%20(545).png)
+
+## processing data and tools
 
 # results
 1
